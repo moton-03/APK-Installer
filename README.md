@@ -11,3 +11,5 @@ It is a tool that installs APK programs on Windows.
 Execute `APK-Installer\Launch.bat` inside the directory.
 ### GUI
 Execute `APK-Installer\Display-Launch.bat` inside the directory.
+## More
+[Check the repository](https://github.com/moton-03/APK-Installer)
