@@ -13,3 +13,4 @@ Execute `APK-Installer\Launch.bat` inside the directory.
 Execute `APK-Installer\Display-Launch.bat` inside the directory.
 ## Link
 - [Repository](https://github.com/moton-03/APK-Installer)
+- [Page](https://moton-03.github.com/APK-Installer)
