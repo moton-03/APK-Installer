@@ -4,7 +4,7 @@ It is a tool that installs APK programs on Windows.
 ## Essential Requirements
 - Windows 11 or later
 ## Installed
-- Download the latest release to your PC.
+- [Download](https://github.com/moton-03/APK-Installer/releases/latest) the latest release to your PC.
 - Extract the downloaded file to a location of your choice.
 ## Launch
 ### CLI
