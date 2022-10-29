@@ -7,6 +7,7 @@ $SetupVGPath = Join-Path -ChildPath ("APK-InstallerSetupVideoGuide.mp4") -Path (
 
 [void][System.Windows.Forms.MessageBox]::Show(@"
 This program installs the APK program on this device.
+See "http://moton-03.github.io/APK-Installer" for details.
 To install the APK program, please continue.
 "@)
 
